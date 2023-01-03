@@ -9,7 +9,7 @@ static char *font = "monospace:pixelsize=14:antialias=true:autohint=true";
 /* Spare fonts */
 static char *font2[] = {
 	"Hack Nerd Font:pixelsize=14:antialias=true:autohint=true",
-	"Source Han Sans:pixelsize=14:antialias=true:autohint=true",
+	"Noto Sans Mono CJK JP:pixelsize=14:antialias=true:autohint=true",
 };
 
 static int borderpx = 2;
